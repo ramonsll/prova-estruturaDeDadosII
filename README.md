@@ -10,22 +10,22 @@ Este repositório contém a implementação completa da Atividade Avaliativa II 
 
 PROVA-II/
 │
-├── 📁 PARTE-A/                 # ÁRVORES BINÁRIAS DE BUSCA (2,0 pontos)
-│   ├── 📄 Questao01.cpp       # Q1 - Implementação básica (inserção, listagem, remoção)
-│   ├── 📄 Questao02.cpp       # Q2 - Maior valor recursivo
-│   ├── 📄 Questao03.cpp       # Q3 - Árvore com dados pessoais (Nome, Sexo, Idade, Peso)
-│   ├── 📄 Questao04.cpp       # Q4 - Tratamento de chaves repetidas
-│   ├── 📄 Questao05.cpp       # Q5 - Verificação de árvore cheia
-│   └── 📁 output/             # Arquivos de saída e executáveis
+├── 📁 PARTE-A/ # ÁRVORES BINÁRIAS DE BUSCA (2,0 pontos)
+│ ├── 📄 Questao01.cpp # Q1 - Implementação básica (inserção, listagem, remoção)
+│ ├── 📄 Questao02.cpp # Q2 - Maior valor recursivo
+│ ├── 📄 Questao03.cpp # Q3 - Árvore com dados pessoais (Nome, Sexo, Idade, Peso)
+│ ├── 📄 Questao04.cpp # Q4 - Tratamento de chaves repetidas
+│ ├── 📄 Questao05.cpp # Q5 - Verificação de árvore cheia
+│ └── 📁 output/ # Arquivos de saída e executáveis
 │
-├── 📁 PARTE-B/                 # ÁRVORES AVL (2,0 pontos)
-│   └── 📄 Questao01.cpp       # Transformação da árvore do item A3 em AVL
+├── 📁 PARTE-B/ # ÁRVORES AVL (2,0 pontos)
+│ └── 📄 Questao01.cpp # Transformação da árvore do item A3 em AVL
 │
-└── 📁 PARTE-C/                 # GRAFOS (2,0 pontos)
-    ├── 📄 Grafos.h            # Cabeçalho da classe Graph
-    ├── 📄 Grafos.cpp          # Implementação da classe Graph
-    ├── 📄 Principal.cpp       # Programa principal para grafos
-    └── 📄 Questao02.cpp       # Algoritmo de Floyd-Warshall
+└── 📁 PARTE-C/ # GRAFOS (2,0 pontos)
+├── 📄 Grafos.h # Cabeçalho da classe Graph
+├── 📄 Grafos.cpp # Implementação da classe Graph
+├── 📄 Principal.cpp # Programa principal para grafos
+└── 📄 Questao02.cpp # Algoritmo de Floyd-Warshall
     
 # 🎯 Detalhamento das Partes
 PARTE A - ÁRVORES BINÁRIAS DE BUSCA 🌲
